@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inge-yang
-- 👀 I’m interested in korean food and HR tech (i'm working in Cornershop by Uber as Tech Recruiter)
+- 👀 I’m interested in korean food and HR tech 
 - 🌱 I'm learning how to use this (GitHub) 😅
 - 📫 How to reach me: inge.yang@cornershopapp.com
 <!---
